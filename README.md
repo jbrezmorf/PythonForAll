@@ -18,9 +18,10 @@ funkční připojení přes Eduroam.
 
 - Sekce 1.2
   - typ list, příkaz for, generátory
+  - typy dict, tuple, set
 
 - Sekce 1.3
-  - typy dict, tuple, set
+  - comprehansions
   - příkazy if, while
 
 - Sekce 1.4
@@ -50,7 +51,11 @@ funkční připojení přes Eduroam.
   - statistika, 
 
 
+## Cheetsheets (vytisknout a rozdat)
+[Markdown](https://scottboms.com/downloads/documentation/markdown_cheatsheet.pdf)
 
+
+  
 ## Struktura adresářů
 
 
