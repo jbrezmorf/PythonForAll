@@ -12,17 +12,17 @@ funkční připojení přes Eduroam.
 
 - Sekce 1.1 
   - Proč se naučit Python?
-  - Instalace prostředí IPython.
-  - základní typy a operace
-  - proměnné jako odkazy
+  - IPython - instalace
+  - IPython - prostředí
 
 - Sekce 1.2
-  - typ list, příkaz for, generátory
-  - typy dict, tuple, set
+  - základní typy a operace, proměnné
+  - if, while, funkce
 
 - Sekce 1.3
+  - typ list, příkaz for, generátory
+  - typy dict, tuple, set
   - comprehansions
-  - příkazy if, while
 
 - Sekce 1.4
   - 'pip', balíčky, moduly
