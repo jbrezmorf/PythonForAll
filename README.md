@@ -15,17 +15,15 @@ funkční připojení přes Eduroam.
   - IPython - instalace
   - IPython - prostředí
 
-- Sekce 1.2
+- Sekce 1.3
   - základní typy a operace, proměnné
   - if, while, funkce
-
-- Sekce 1.3
   - typ list, příkaz for, generátory
   - typy dict, tuple, set
   - comprehansions
+  - práce se soubory, podpora datových formátů
 
 - Sekce 1.4
-  - 'pip', balíčky, moduly
   - grafy s Matplotlib
 
 
@@ -33,7 +31,7 @@ funkční připojení přes Eduroam.
 
 - Sekce 2.1 
   - Git a Github
-  - Práce se soubory, podpora datových formátů
+  - PyCharm
 
 - Sekce 2.2
   - knihovna Numpy
@@ -41,6 +39,7 @@ funkční připojení přes Eduroam.
   - lineární algebra
 
 - Sekce 2.3
+  - 'pip', balíčky, moduly
   - třídy, objekty
   - výjímky
   - vlákna a paralelismus
